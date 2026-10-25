@@ -8,7 +8,7 @@
 
 I'm at the beginning of my tech journey—learning the fundamentals, experimenting with ideas, and turning what I learn into small, real projects. I'm interested in AI, software, and the practical work that happens between an idea and a working product.
 
-<a href="https://github.com/AdityaKumar-9716">
+<a href="https://github.com/aarushsharmadev">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/Status-Learning%20by%20building-7C3AED?style=for-the-badge" alt="Learning by building"/>
